@@ -1,1 +1,3 @@
-# 8.CustomInputFormats-Example
+8.CustomInputFormats-Example
+
+Description: Demonistration about custom Input Formats  class in mapreduce.
